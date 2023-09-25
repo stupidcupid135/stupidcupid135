@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi!
+
+I'm StupidCupid & I like to code! Mostly games, though I'll throw other things on here sometimes. 
 
 <!--
 **stupidcupid135/stupidcupid135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
